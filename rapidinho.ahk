@@ -1,0 +1,2 @@
+﻿Voice := ComObjCreate("SAPI.SpVoice")
+Voice.Speak("Obrigado, essa coisa que você acabou de baixar acabou de instalar no seu computador permite-me a fazer umas coisas que eu não podia antes. Valeu ai, vt.")
